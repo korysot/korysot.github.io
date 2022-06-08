@@ -1,14 +1,11 @@
 ---
-layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+layout: Courses/Training
+title: Training 2021-2022
+subtitle: Seminars and tranings from 2021-2022
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [training]
 comments: true
 ---
-
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
 
@@ -16,12 +13,13 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Date       | Title                                                 | Type              |
+|------------|-------------------------------------------------------|-------------------|
+| 04/10/2022 | How to Be Your Own Best Editor (IAD)                  | Workshop (online) |
+| 05/10/2022 | Introduction to the UK Data Service (UK Data Service) | Seminar (online)  |
+| 06/10/2022 | Assessment and Providing Feedback (IAD)               | Workshop (online= |
+|            |                                                       |                   |
+|            |                                                       |                   |
 
 
 How about a yummy crepe?
