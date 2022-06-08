@@ -1,10 +1,11 @@
 ---
-layout: Courses/Training
-title: Training 2021-2022
-subtitle: Seminars and tranings from 2021-2022
-gh-badge: [star, fork, follow]
+layout: post
+title: Seminars and Trainings
+subtitle: IAD seminars and other 
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
 tags: [training]
-comments: true
 ---
 
 **Here is some bold text**
