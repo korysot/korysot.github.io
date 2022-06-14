@@ -15,8 +15,8 @@ author: Koraima Sotomayor Enriquez
 
 navbar-links:
   About Me: "aboutme"
-  Courses/Training:
-  Public Engagement: 
+  Courses/Training: "training"
+  Public Engagement: "public-engagement" 
 
 # --- Logo --- #
 
