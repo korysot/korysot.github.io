@@ -2,9 +2,9 @@
 layout: page
 title: Public Engagement
 subtitle: Going above and beyond
-cover-img: /assets/img/IMG_1088.jpeg
-thumbnail-img: /assets/img/IMG_1088.jpeg
-share-img: /assets/img/IMG_1088.jpeg
+cover-img: assets/img/IMG_1088.jpeg
+thumbnail-img: assets/img/IMG_1088.jpeg
+share-img: assets/img/IMG_1088.jpeg
 tags: blogs, public engagement
 ---
 # June 2022
