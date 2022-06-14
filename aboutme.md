@@ -22,9 +22,9 @@ We all know that Currillum Vitaes do not reflect the whole picture, but at least
 If you want a quick overview of my research you could peek 
 my university's profile: [Octopus Woman UoE profile](https://www.ed.ac.uk/profile/koraima-sotomayor-enriquez).
 
-## Why this sections is only in _english_!?
+## Why this website is only in _english_!?
 
-Yes, my native language is not english; it is spanish (I'm from Latin America to be precise). 
-Yes, all the content of this page is English. No, I do not have an spanish version 
+Yes, my native language is not English; it is Spanish (I'm from Latin America to be precise). 
+Yes, all the content of this page is English. No, I do not have an Spanish version 
 of this website **yet**. No, I did not make this website myself (See [Beautiful Jekyll](https://beautifuljekyll.com) for the original version). 
 Yes, I will try to to do it in the future (: 
