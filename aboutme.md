@@ -19,7 +19,7 @@ My name is Koraima Sotomayor-Enriquez.
 We all know that Currillum Vitaes do not reflect the whole picture, but at least they are a quick snapshot: 
 [Octopus Woman CV](cv/British_CV__KS___June2022.pdf).
 
-If you want a quick overview of my research you could peak 
+If you want a quick overview of my research you could peek 
 my university's profile: [Octopus Woman UoE profile](https://www.ed.ac.uk/profile/koraima-sotomayor-enriquez).
 
 ## Why this sections is only in _english_!?
