@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Public Engagement
+subtitle: Going above and beyond
+tags: blogs, public engagement
 ---
+# June 2022
+[Blog post](https://www.butterflybabyclinic.com/parental-wellbeing-it-takes-a-village/) "It takes a village" from _A conversation with a Mum series_
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# May 2022
+[Blog post](https://www.butterflybabyclinic.com/is-there-anything-certain-in-the-pandemic/) "Is there anything certain in the pandemic?" from _A conversation with a Mum series_
 
-What else do you need?
+# March 2022
+[Blog post](https://www.butterflybabyclinic.com/remembering-and-the-pandemic/) "Remembering and the pandemic" from _A conversation with a Mum series_
 
-### My story
+# February 2022
+[Blog post](https://www.butterflybabyclinic.com/the-dual-face-of-the-parenting-pandemic-experience/) "The Dual Face of the Parenting Pandemic Experience" from _A conversation with a Mum series_
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+# November 2021
+[Blog post](https://blogs.ed.ac.uk/research-bow/being-aware-or-not-being-aware-that-is-the-question-mental-health-awareness-as-a-postgraduate-student/) about mental health and wellbeing as a postgraduate student in the blog of the PGR Representatives of the School of Health in Social Science [Research Bow] (https://blogs.ed.ac.uk/research-bow/)

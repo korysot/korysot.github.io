@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who? What? but most importantly why?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Koraima Sotomayor-Enriquez.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+ - Ecuadorian 
+ - Living in Scotland
+ - Psychologist (in Ecuador)
+ - PhD Student (now in Edinburgh)
+ - I like octopus and jellyfishes
+ - Contextual Mental Health Advocate
 
-What else do you need?
 
-### My story
+## Do you want to more about me? 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+We all know that Currillum Vitaes do not reflect the whole picture, but at least theay are a quick snapshot: 
+[Octopus Woman CV]("/cv/British_CV__KS___June2022")
