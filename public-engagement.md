@@ -5,6 +5,8 @@ subtitle: Going above and beyond
 tags: blogs, public engagement
 ---
 # June 2022
+[Presentation post](assets/presentations/Koraima-MZandYoungPeople_PGRConference2022_v2.pdf) "Mentalization and daily affect of young people with MH difficulties" in _PGR Conference: Bouncing Back Together 2022_
+
 [Blog post](https://www.butterflybabyclinic.com/parental-wellbeing-it-takes-a-village/) "It takes a village" from _A conversation with a Mum series_
 
 
