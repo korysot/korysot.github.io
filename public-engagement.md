@@ -2,10 +2,13 @@
 layout: page
 title: Public Engagement
 subtitle: Going above and beyond
+cover-img: /assets/img/IMG_1088.jpeg
+thumbnail-img: /assets/img/IMG_1088.jpeg
+share-img: /assets/img/IMG_1088.jpeg
 tags: blogs, public engagement
 ---
 # June 2022
-[Presentation post](assets/presentations/Koraima-MZandYoungPeople_PGRConference2022_v2.pdf) "Mentalization and daily affect of young people with MH difficulties" in _PGR Conference: Bouncing Back Together 2022_
+[Presentation](assets/presentations/Koraima-MZandYoungPeople_PGRConference2022_v2.pdf) "Mentalization and daily affect of young people with MH difficulties" in _PGR Conference: Bouncing Back Together 2022_
 
 [Blog post](https://www.butterflybabyclinic.com/parental-wellbeing-it-takes-a-village/) "It takes a village" from _A conversation with a Mum series_
 
@@ -21,4 +24,5 @@ tags: blogs, public engagement
 
 
 # November 2021
-[Blog post](https://blogs.ed.ac.uk/research-bow/being-aware-or-not-being-aware-that-is-the-question-mental-health-awareness-as-a-postgraduate-student/) about mental health and wellbeing as a postgraduate student in the blog of the PGR Representatives of the School of Health in Social Science [Research Bow] (https://blogs.ed.ac.uk/research-bow/)
+[Blog post](https://blogs.ed.ac.uk/research-bow/being-aware-or-not-being-aware-that-is-the-question-mental-health-awareness-as-a-postgraduate-student/) about mental health and wellbeing as a postgraduate student in the blog of the PGR Representatives of the School of Health in Social Science 
+called [Research Bow](https://blogs.ed.ac.uk/research-bow/)
