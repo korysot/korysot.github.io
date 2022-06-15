@@ -17,7 +17,7 @@ tags: blogs, public engagement
 [Blog post](https://www.butterflybabyclinic.com/is-there-anything-certain-in-the-pandemic/) "Is there anything certain in the pandemic?" from _A conversation with a Mum series_
 
 # April 2022
-[Presentation](assets/presentations/MIRT_ToMBooklet_April2022_v1.5.gif) "Measuring ToM development:Heightening validity of a behavioural ToM measure using MIRT" at _Richardson Lab_
+[Presentation](assets/presentations/MIRT_ToMBooklet_April2022.gif) "Measuring ToM development:Heightening validity of a behavioural ToM measure using MIRT" at _Richardson Lab_
 
 # March 2022
 [Blog post](https://www.butterflybabyclinic.com/remembering-and-the-pandemic/) "Remembering and the pandemic" from _A conversation with a Mum series_
