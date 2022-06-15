@@ -8,7 +8,7 @@ share-img: /assets/img/EU-13.jpg
 tags: [training]
 ---
 
-
+# Seminars and Workshops
 
 | Date       | Title                                                 | Type              |
 |------------|-------------------------------------------------------|-------------------|
@@ -17,3 +17,8 @@ tags: [training]
 | 06/10/2022 | Assessment and Providing Feedback (IAD)               | Workshop (online= |
 |            |                                                       |                   |
 |            |                                                       |                   |
+
+# Short Courses and Schools 
+
+
+# Courses
