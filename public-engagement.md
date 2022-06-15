@@ -26,3 +26,5 @@ tags: blogs, public engagement
 # November 2021
 [Blog post](https://blogs.ed.ac.uk/research-bow/being-aware-or-not-being-aware-that-is-the-question-mental-health-awareness-as-a-postgraduate-student/) about mental health and wellbeing as a postgraduate student in the blog of the PGR Representatives of the School of Health in Social Science 
 called [Research Bow](https://blogs.ed.ac.uk/research-bow/)
+
+[Workshop](https://www.eventbrite.co.uk/e/catching-your-breath-workshop-to-promote-wellbeing-among-young-people-tickets-172748113257?keep_tld=1) "Catching your breath: workshop to promote wellbeing among young people" as part of the 20th Festival of Social Science in collaboration with Aimee Hartley, Dr Simona Di Folco and Islay Barne
