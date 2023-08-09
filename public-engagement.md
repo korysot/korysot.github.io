@@ -7,6 +7,16 @@ thumbnail-img: /assets/img/IMG_1088.jpeg
 share-img: /assets/img/IMG_1088.jpeg
 tags: blogs, public engagement
 ---
+# June 2023
+[Blog post](https://immerse-project.eu/home-en/blog/koraima-june-2023) "Mentalizing the IMMERSE project" at [IMMERSE EU project](https://immerse-project.eu)
+
+# April 2023
+[Blog post](https://blogs.ed.ac.uk/research-bow/tell-us-about-your-methodology-experience-sampling-methodology/) "Tell Us About Your Methodology – Experience Sampling Methodology" at [Research Bow](https://blogs.ed.ac.uk/research-bow/)
+
+# October 2022
+[Presentation](https://triumph.sphsu.gla.ac.uk) "Day to Day Mental Health of Young People" at _TRIUMPH Fest - Edinburgh_
+
+
 # June 2022
 [Presentation](assets/presentations/Koraima-MZandYoungPeople_PGRConference2022_v2.pdf) "Mentalization and daily affect of young people with MH difficulties" at _PGR Conference: Bouncing Back Together 2022_
 

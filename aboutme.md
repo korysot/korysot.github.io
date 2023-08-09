@@ -6,10 +6,10 @@ subtitle: Who? What? but most importantly why?
 
 My name is Koraima Sotomayor-Enriquez.
 
- - Ecuadorian 
+ - Ecuadorean 
  - Living in Scotland
  - Psychologist (in Ecuador)
- - PhD Student (now in Edinburgh)
+ - PhD Candidate (now in Edinburgh)
  - I like octopus and jellyfishes
  - Contextual Mental Health Advocate
 
@@ -24,7 +24,7 @@ my university's profile: [Octopus Woman UoE profile](https://www.ed.ac.uk/profil
 
 ## Why this website is only in _english_!?
 
-Yes, my native language is not English; it is Spanish (I'm from Latin America to be precise). 
+My native language is Spanish . 
 Yes, all the content of this page is English. No, I do not have an Spanish version 
 of this website **yet**. No, I did not make this website myself (See [Beautiful Jekyll](https://beautifuljekyll.com) for the original version). 
-Yes, I will try to to do it in the future (: 
+Yes, I will try to to implement an spanish version in the future (: 
