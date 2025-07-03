@@ -7,7 +7,6 @@ share-img: /assets/img/IMG_1088.jpeg
 tags: papers
 ---
 
-title: "List of Publications"
 
 ## Publications
 
