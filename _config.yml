@@ -21,9 +21,9 @@ author: KSE
 
 navbar-links:
   About Me: "aboutme"
-  Research:
-    - Publications: "papers-deliver"
-    - Conferences: "public-engagement"
+  Research: "papers-delivered"
+  Outreach: "public-engagement"
+  
 #Author's home: "https://deanattali.com"
 
 ################
