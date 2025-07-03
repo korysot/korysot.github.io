@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Octopus Woman
 
 # Your name to show in the footer
-author: Some Person
+author: KSE
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,9 +21,9 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research:
+    - Publications: "papers-deliver"
+    - Conferences: "public-engagement"
 #Author's home: "https://deanattali.com"
 
 ################

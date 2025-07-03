@@ -1,43 +1,42 @@
 ---
 layout: page
 title: Public Engagement
-subtitle: Going above and beyond
+subtitle: 
 cover-img: /assets/img/IMG_1088.jpeg
 thumbnail-img: /assets/img/IMG_1088.jpeg
 share-img: /assets/img/IMG_1088.jpeg
 tags: blogs, public engagement
 ---
-# June 2023
-[Blog post](https://immerse-project.eu/home-en/blog/koraima-june-2023) "Mentalizing the IMMERSE project" at [IMMERSE EU project](https://immerse-project.eu)
-
-# April 2023
-[Blog post](https://blogs.ed.ac.uk/research-bow/tell-us-about-your-methodology-experience-sampling-methodology/) "Tell Us About Your Methodology – Experience Sampling Methodology" at [Research Bow](https://blogs.ed.ac.uk/research-bow/)
-
-# October 2022
-[Presentation](https://triumph.sphsu.gla.ac.uk) "Day to Day Mental Health of Young People" at _TRIUMPH Fest - Edinburgh_
+# 2024
+* [Dissemination Event] Festival of Social Science - We are all mentalising (October 2024)
+* [Workshop] IMPACT Showcase (June 2024)
+* [Presentation] Invite Speaker at Saxe Lab (MIT) (January 2024)
 
 
-# June 2022
-[Presentation](assets/presentations/Koraima-MZandYoungPeople_PGRConference2022_v2.pdf) "Mentalization and daily affect of young people with MH difficulties" at _PGR Conference: Bouncing Back Together 2022_
+# 2023
+* [Blog post](https://immerse-project.eu/home-en/blog/koraima-june-2023) "Mentalizing the IMMERSE project" at [IMMERSE EU project](https://immerse-project.eu)
 
-[Blog post](https://www.butterflybabyclinic.com/parental-wellbeing-it-takes-a-village/) "It takes a village" from _A conversation with a Mum series_
+* [Blog post](https://blogs.ed.ac.uk/research-bow/tell-us-about-your-methodology-experience-sampling-methodology/) "Tell Us About Your Methodology – Experience Sampling Methodology" at [Research Bow](https://blogs.ed.ac.uk/research-bow/)
 
+# 2022
+* [Presentation](https://triumph.sphsu.gla.ac.uk) "Day to Day Mental Health of Young People" at _TRIUMPH Fest - Edinburgh_
 
-# May 2022
-[Blog post](https://www.butterflybabyclinic.com/is-there-anything-certain-in-the-pandemic/) "Is there anything certain in the pandemic?" from _A conversation with a Mum series_
+* [Presentation](assets/presentations/Koraima-MZandYoungPeople_PGRConference2022_v2.pdf) "Mentalization and daily affect of young people with MH difficulties" at _PGR Conference: Bouncing Back Together 2022_
 
-# April 2022
-[Presentation](assets/presentations/MIRT_ToMBooklet_April2022.gif) "Measuring ToM development:Heightening validity of a behavioural ToM measure using MIRT" at _Richardson Lab_
-
-# March 2022
-[Blog post](https://www.butterflybabyclinic.com/remembering-and-the-pandemic/) "Remembering and the pandemic" from _A conversation with a Mum series_
-
-# February 2022
-[Blog post](https://www.butterflybabyclinic.com/the-dual-face-of-the-parenting-pandemic-experience/) "The Dual Face of the Parenting Pandemic Experience" from _A conversation with a Mum series_
+* [Blog post](https://www.butterflybabyclinic.com/parental-wellbeing-it-takes-a-village/) "It takes a village" from _A conversation with a Mum series_
 
 
-# November 2021
-[Blog post](https://blogs.ed.ac.uk/research-bow/being-aware-or-not-being-aware-that-is-the-question-mental-health-awareness-as-a-postgraduate-student/) about mental health and wellbeing as a postgraduate student in the blog of the PGR Representatives of the School of Health in Social Science 
+* [Blog post](https://www.butterflybabyclinic.com/is-there-anything-certain-in-the-pandemic/) "Is there anything certain in the pandemic?" from _A conversation with a Mum series_
+
+* [Presentation](assets/presentations/MIRT_ToMBooklet_April2022.gif) "Measuring ToM development:Heightening validity of a behavioural ToM measure using MIRT" at _Richardson Lab_
+
+* [Blog post](https://www.butterflybabyclinic.com/remembering-and-the-pandemic/) "Remembering and the pandemic" from _A conversation with a Mum series_
+
+* [Blog post](https://www.butterflybabyclinic.com/the-dual-face-of-the-parenting-pandemic-experience/) "The Dual Face of the Parenting Pandemic Experience" from _A conversation with a Mum series_
+
+
+# 2021
+* [Blog post](https://blogs.ed.ac.uk/research-bow/being-aware-or-not-being-aware-that-is-the-question-mental-health-awareness-as-a-postgraduate-student/) about mental health and wellbeing as a postgraduate student in the blog of the PGR Representatives of the School of Health in Social Science 
 called [Research Bow](https://blogs.ed.ac.uk/research-bow/)
 
-[Workshop](https://www.eventbrite.co.uk/e/catching-your-breath-workshop-to-promote-wellbeing-among-young-people-tickets-172748113257?keep_tld=1) "Catching your breath: workshop to promote wellbeing among young people" as part of the 20th Festival of Social Science in collaboration with Aimee Hartley, Dr Simona Di Folco and Islay Barne
+*[Workshop](https://www.eventbrite.co.uk/e/catching-your-breath-workshop-to-promote-wellbeing-among-young-people-tickets-172748113257?keep_tld=1) "Catching your breath: workshop to promote wellbeing among young people" as part of the 20th Festival of Social Science in collaboration with Aimee Hartley, Dr Simona Di Folco and Islay Barne
