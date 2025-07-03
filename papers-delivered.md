@@ -1,17 +1,13 @@
 ---
 layout: page
 title: Papers Delivered
-subtitle: 
 cover-img: /assets/img/IMG_1088.jpeg
 thumbnail-img: /assets/img/IMG_1088.jpeg
 share-img: /assets/img/IMG_1088.jpeg
 tags: papers
 ---
 
----
 title: "List of Publications"
-output: html_document
----
 
 ## Publications
 
